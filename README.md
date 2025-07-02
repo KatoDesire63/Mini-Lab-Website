@@ -1,2 +1,2 @@
 # Mini-Lab-Website
-Generate Website
+[View](https://katodesire63.github.io/Mini-Lab-Website/)
