@@ -6,8 +6,8 @@ body {
     }
 
     header {
-      background: #484848 ;
-      color: #fff;
+      background: #006600;
+      color: #FFFFFF;
       padding: 1rem;
       text-align: center;
     }
@@ -21,16 +21,20 @@ body {
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
-    h1, h2 {
-      color: 	#0080ff;
+    h1 {
+      color: #FFFFFF
+    }
+
+    h2 {
+      color: 	#006600;
     }
 
     footer {
       text-align: center;
       padding: 1rem;
       font-size: 0.9rem;
-      color: #777;
-      background: #fff;
+      color: #FFFFFF;
+      background: #006600;
     }
 
     footer a i:hover {
@@ -43,14 +47,14 @@ body {
       display: inline-block;
       margin-top: 1rem;
       padding: 0.6rem 1rem;
-      background-color: #3498db;
-      color: #fff;
+      background-color: #006600;
+      color: #FFFFFF;
       text-decoration: none;
       border-radius: 4px;
     }
 
     .button:hover {
-      background-color: blue;
+      background-color: #006600;
     }
 
     .features-container {
